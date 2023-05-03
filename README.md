@@ -1,19 +1,23 @@
 <h1><b>Rust Quizlet</b></h1>
 
-Rust Quizlet is a command-line interface (CLI) application that lets you study, and test yourself on flashcards. The project is created using Rust programming language, and it was developed as a part of my learning journey.
+Rust Quizlet is a command-line interface (CLI) application that lets you create study sets, add flash cards, study, and test yourself on your sets. The project is created using Rust programming language, and it was developed as a part of my learning journey.
 
 <h2>Features</h2>
 
 The application has the following features:
 
-Study the deck of cards
-Test yourself on the deck of cards
-Getting Started
+Create a study set</br>
+Add additional flash cards to a set</br>
+Study your study sets</br>
+Test yourself on your study sets</br>
+
+
+<h1><b>Getting Started</b></h1>
 
 These instructions will help you get the project up and running on your local machine.
 
 <h2>Prerequisites</h2>
-Rust
+Rust</br>
 Cargo
 
 <h2>Installing</h2>

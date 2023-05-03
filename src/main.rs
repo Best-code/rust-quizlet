@@ -10,21 +10,27 @@ use std::{
 use rand::Rng;
 
 fn main() {
-    let delim = " answer: ";
-    let file = "./fos_exam.txt";
+    let mut delim = String::from(" answer: ");
+    let mut file = String::from("./fos_exam.txt");
 
-    let mut question_answer = fill_hashmap(file, delim);
+    let mut question_answer = fill_hashmap(&file, &delim);
 
-    menu(&mut question_answer, delim, file);
+    menu(&mut question_answer, &mut delim, &mut file);
 }
 
-fn menu(question_answer: &mut HashMap<String, String>, delim: &str, file: &str) {
+fn menu(question_answer: &mut HashMap<String, String>, delim: &mut String, file: &mut String) {
     loop {
-        println!("Welcome to Rust-Quizlet!\n");
+        println!("Welcome to Rust-Quizlet!");
+        println!(
+            "Your current study set is {}, with the delimiter being '{}'\n",
+            file, delim
+        );
         println!("1. Study");
         println!("2. Test");
         println!("3. Add Flash Card");
-        println!("4. Quit");
+        println!("4. Set Delimiter");
+        println!("5. Set Study Set");
+        println!("6. Quit");
 
         let mut input = String::new();
         io::stdin().read_line(&mut input).unwrap();
@@ -39,20 +45,67 @@ fn menu(question_answer: &mut HashMap<String, String>, delim: &str, file: &str) 
             "3" => {
                 *question_answer = add_qa(delim, file);
             }
-            default => break,
+            "4" => {
+                change_delim(question_answer, file, delim);
+            }
+            "5" => {
+                change_file(question_answer, file, delim);
+            }
+            _default => break,
         }
     }
 }
 
+fn change_delim(
+    question_answer: &mut HashMap<String, String>,
+    file: &mut String,
+    delim: &mut String,
+) {
+    print!("What would you like the new delimiter to be: ");
+    delim.clear();
+    let mut input = String::new();
+    io::stdin().read_line(&mut input).unwrap();
+    delim.push_str(input.trim());
+
+    *question_answer = fill_hashmap(file, delim);
+}
+
+fn change_file(
+    question_answer: &mut HashMap<String, String>,
+    file: &mut String,
+    delim: &mut String,
+) {
+    println!("What would you like the new study set to be: ");
+    file.clear();
+    let mut input = String::new();
+    io::stdin().read_line(&mut input).unwrap();
+    file.push_str(input.trim());
+    println!("{} is your new study set", file);
+
+    *question_answer = fill_hashmap(file, delim);
+}
+
 fn study(question_answer: &HashMap<String, String>) {
+    // Length for finding a kv in bounds
     let length = question_answer.len();
 
+    // Studying each individual term
     for _ in 0..question_answer.len() {
-        let (qa_pair, question, answer) = get_kv(length, question_answer);
+        // Getting random kv pair
+        let (_qa_pair, question, answer) = get_kv(length, question_answer);
+        // Requiring input to move on
         println!("{question}\nPress enter to see answer.");
+
         let mut enter = String::new();
         io::stdin().read_line(&mut enter).unwrap();
+
+        // Allow exit of mode through entering 0
+        if enter.trim() == "0" {
+            break;
+        }
+
         println!("{answer}\n");
+        // Requiring input to move on
         io::stdin().read_line(&mut enter).unwrap();
     }
 }
@@ -63,13 +116,19 @@ fn test(question_answer: &HashMap<String, String>) {
     io::stdin().read_line(&mut question_count_input).unwrap();
     let question_count: i32 = question_count_input.trim().parse().unwrap_or(10);
 
+    // Keep track of how many correct on first try
     let mut score = 0;
+    // Determine whether question is a multiple choice or a true_false question
     for _ in 0..question_count {
         let tf_or_mc = rand::thread_rng().gen_bool(1.0 / 2.0);
         if tf_or_mc {
             score = mult_choice(&mut score, &question_answer);
         } else {
             score = true_false(&mut score, &question_answer);
+        }
+
+        if score == -1 {
+            break;
         }
     }
 
@@ -178,6 +237,10 @@ fn true_false(score: &mut i32, qna_s: &HashMap<String, String>) -> i32 {
     } else {
         println!("That's incorrect.");
     }
+
+    if choice == 0 {
+        *score = -1;
+    }
     *score
 }
 
@@ -248,6 +311,10 @@ fn mult_choice(score: &mut i32, qna_s: &HashMap<String, String>) -> i32 {
             tries += 1;
         }
     }
+
+    if choice == 0 {
+        *score = -1;
+    }
     *score
 }
 
@@ -259,6 +326,7 @@ fn shuffle_array<'a>(options: &'a mut [&'a str; 4]) -> &'a [&'a str; 4] {
 }
 
 fn add_qa(delim: &str, file_str: &str) -> HashMap<String, String> {
+    // Reading in user input to respective variables
     let mut question = String::new();
     let mut answer = String::new();
 
@@ -267,7 +335,10 @@ fn add_qa(delim: &str, file_str: &str) -> HashMap<String, String> {
     println!("Input the answer: ");
     io::stdin().read_line(&mut answer).unwrap();
 
+    // Formatting before appending to file
     let qa_pair = String::from("\n\n".to_owned() + &question.trim() + delim + &answer.trim());
+
+    // Appending to file
     let mut file = std::fs::OpenOptions::new()
         .append(true)
         .open(file_str)
@@ -275,6 +346,7 @@ fn add_qa(delim: &str, file_str: &str) -> HashMap<String, String> {
 
     file.write(&qa_pair.as_bytes()).unwrap();
 
+    // Returning new hashmap
     let question_answer = fill_hashmap(file_str, delim);
 
     question_answer

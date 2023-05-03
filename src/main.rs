@@ -1,7 +1,10 @@
 use std::{
     collections::HashMap,
+    default,
     fs::File,
-    io::{self, BufRead, BufReader},
+    hash::Hash,
+    io::{self, BufRead, BufReader, Read, Write},
+    process::{exit, Output},
 };
 
 use rand::Rng;
@@ -10,16 +13,59 @@ fn main() {
     let delim = " answer: ";
     let file = "./fos_exam.txt";
 
+    let mut question_answer = fill_hashmap(file, delim);
+
+    menu(&mut question_answer, delim, file);
+}
+
+fn menu(question_answer: &mut HashMap<String, String>, delim: &str, file: &str) {
+    loop {
+        println!("Welcome to Rust-Quizlet!\n");
+        println!("1. Study");
+        println!("2. Test");
+        println!("3. Add Flash Card");
+        println!("4. Quit");
+
+        let mut input = String::new();
+        io::stdin().read_line(&mut input).unwrap();
+
+        match input.trim() {
+            "1" => {
+                study(question_answer);
+            }
+            "2" => {
+                test(&question_answer);
+            }
+            "3" => {
+                *question_answer = add_qa(delim, file);
+            }
+            default => break,
+        }
+    }
+}
+
+fn study(question_answer: &HashMap<String, String>) {
+    let length = question_answer.len();
+
+    for _ in 0..question_answer.len() {
+        let (qa_pair, question, answer) = get_kv(length, question_answer);
+        println!("{question}\nPress enter to see answer.");
+        let mut enter = String::new();
+        io::stdin().read_line(&mut enter).unwrap();
+        println!("{answer}\n");
+        io::stdin().read_line(&mut enter).unwrap();
+    }
+}
+
+fn test(question_answer: &HashMap<String, String>) {
     println!("How many questions would you like: ");
     let mut question_count_input = String::new();
     io::stdin().read_line(&mut question_count_input).unwrap();
     let question_count: i32 = question_count_input.trim().parse().unwrap_or(10);
 
-    let question_answer = fill_hashmap(file, delim);
-
     let mut score = 0;
     for _ in 0..question_count {
-        let tf_or_mc = rand::thread_rng().gen_bool(1.0/2.0);
+        let tf_or_mc = rand::thread_rng().gen_bool(1.0 / 2.0);
         if tf_or_mc {
             score = mult_choice(&mut score, &question_answer);
         } else {
@@ -89,13 +135,12 @@ fn true_false(score: &mut i32, qna_s: &HashMap<String, String>) -> i32 {
     let (qa_pair, question, answer) = get_kv(qna_len, qna_s);
 
     // Get a random answer and give it a 50% chance of being right
-    let chance = rand::thread_rng().gen_bool(1.0/2.0);
+    let chance = rand::thread_rng().gen_bool(1.0 / 2.0);
     let mut random_answer = String::new();
     if chance {
         let random_answer_index = rand::thread_rng().gen_range(0..qna_len);
         random_answer.push_str(qna_s.values().nth(random_answer_index).unwrap());
-    }
-    else {
+    } else {
         random_answer.push_str(&answer);
     }
 
@@ -211,4 +256,26 @@ fn shuffle_array<'a>(options: &'a mut [&'a str; 4]) -> &'a [&'a str; 4] {
     let mut rng = rand::thread_rng();
     options.shuffle(&mut rng);
     options
+}
+
+fn add_qa(delim: &str, file_str: &str) -> HashMap<String, String> {
+    let mut question = String::new();
+    let mut answer = String::new();
+
+    println!("Input the question: ");
+    io::stdin().read_line(&mut question).unwrap();
+    println!("Input the answer: ");
+    io::stdin().read_line(&mut answer).unwrap();
+
+    let qa_pair = String::from("\n\n".to_owned() + &question.trim() + delim + &answer.trim());
+    let mut file = std::fs::OpenOptions::new()
+        .append(true)
+        .open(file_str)
+        .unwrap();
+
+    file.write(&qa_pair.as_bytes()).unwrap();
+
+    let question_answer = fill_hashmap(file_str, delim);
+
+    question_answer
 }

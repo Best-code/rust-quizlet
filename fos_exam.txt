@@ -1,0 +1,781 @@
+FDA Food Safety Modernization Act of 2011 answer: shifted focus from responding to preventing food contamination
+
+Foodborne Illness symptoms answer: diarrhea, nausea, cramping, vomiting
+-very young/old and immunocomp. vulnerable
+
+Biological Hazards in Food answer: organic or living organisms or its properties that can cause an adverse response in humans
+-causes 90% of foodborne illnesses
+
+Infection answer: invasion of the body by a pathogenic organism
+-Listeria Monocytogenes
+
+Intoxication-Poisoning answer: caused by bacteria growing on food and releasing toxins that cause the illness
+-food has already been contaminated
+-Clostridium Bofulinum
+
+Toxin-Mediated Infection answer: caused by consuming microorganisms that produce toxins in stomach or intestines
+-E-coli
+
+Molds answer: produce mytotoxins
+visible-forms blooms
+should not be eaten
+
+Viruses answer: need living cells to multiply
+hepatitis A: food contamin w/ fecal matter - shellfish
+Noravirus(stomach flu)
+
+Parasites answer: needs host to survive-uncommon in US
+inactivation in food with cooking and gamma irradiation
+
+Roundworms answer: trichinella spiralis: undercooked pork
+herring worms/cod worms: undercooked/raw fish
+
+Protozoa answer: giardia lamblia: common contaminated water
+toxoplasma gondii: raw meat
+
+Prions answer: infectious protein particles that do not have DNA or RNA; travel through spinal cord to brain
+-mad cow disease
+
+Chemical Hazards in Food answer: cleaners, pesticides, medications or any dangerous chemicals that can get into food
+
+Melamine answer: food adulteration used in fabric, glues, and resins
+-imported pet food and infant formula to give falsely elevated protein content (2007)
+
+Acrylamide answer: potential carcinogen that forms when meats, vegetables, and baked products reach extremely high temperatures
+
+Seafood Toxins answer: histamine: fish poisoning from not chilling after catch
+mercury poisoning: bioaccumulation can result in excess levels that harm body
+
+Physical Hazards in Food answer: foreign items in food supply
+
+Food Allergy answer: a response by your immune system to the proteins in certain foods
+
+Food Intolerance answer: a negative reaction to food that doesn't involve the immune system due to enzyme deficiency
+
+Preventing Foodborne Illness answer: foods should be cooked thoroughly to kill microbes
+leftovers should be stored in the refrigerator for a limited period of time
+food should be thawed slowly in the refrigerator
+when shopping, purchase refrigerated and frozen foods last
+
+Food Preservation answer: increasing the shelf life of foods by preventing the growth and activities of microorganisms
+-limiting available water with physical and chemical methods
+
+Biological Spoilage answer: bacteria, yeasts, and molds
+
+Enzymatic Spoilage answer: proteins that catalyze chemical rxns
+-proteases, lipases, carbohydrases, polyphenol oxidase
+
+Physical Spoilage answer: type of food spoilage caused by temperature changes, moisture, and dryness
+-evaporation and seperation
+
+Drying answer: Food Preservation Method
+inhibits micro-organism growth/removal of water
+-sun-drying, conventional, vacuum, osmotic, freeze-drying
+
+Curing answer: Food Preservation Method
+high concentration of solutes draws water out of food
+
+Fermentation answer: Food Preservation Method
+micro-organisms convert sugar to alcohol, gases, acids
+-cannot survive in acidic or alcoholic environment
+
+Pickling answer: Food Preservation Method
+preserves food through acidification--controls microbial growth
+-vinegar often used
+
+Canning answer: Food Preservation Method
+packing food and liquid in small container; air left at top for headspace and to ensure vacuum seal
+-heating needed for low acid foods by removing oxygen
+
+Cold Preservation answer: refrigeration and freezing
+
+Freezer Burn answer: moisture loss caused by improper packaging or overly long storage in the freezer
+
+Cell-Rupturing answer: water expands upon freezing; large crystals can rupture food's cell walls causing inferior texture
+
+Fluid Loss answer: meat loses water when thawed resulting in a drier texture
+
+Recrystallization answer: from melting to refreezing as larger crystals
+-occurs with temperature fluctuation
+
+Heat Preservation answer: boiling, pasteurization, ohmic heating
+
+Boiling answer: 10 minutes inactivates most micro-organisms
+
+Ohmic Heating answer: an electrical current is passed through food, generating enough heat to destroy microorganisms.
+
+Pasteurization answer: treating a substance with heat to kill or slow the growth of pathogens
+-high temp short time: 161F for 15 sec
+-ultra high temp: >280F for 2 sec
+
+Irradiation answer: the process of exposing food to high-intensity energy waves to increase shelf life and kill harmful microorganisms
+
+Pulsed Light answer: food exposed to intense, brief flashes of light 
+- disrupts bacterial cell membranes but not those of the surrounding foods: time sensitive 
+- damages bacterial DNA
+
+High Pressure Processing (HPP) answer: method used to pasteurize foods by exposing the items to pulses of high pressure, which destroys the microorganisms that are present
+
+Water soluble vitamins most susceptible to answer: loss after cooking in liquid
+
+Milling Flours answer: 1. breaking
+2. purifying
+3. reducing
+4. sifting
+5. classifying: determine class
+
+What do whole grain flours include? answer: bran and germ
+
+Wet Milling answer: grains soaked in water to soften seed and make it easier to separate
+-corn kernels
+
+Wheat Flour answer: soft: low protein and high starch - cake and pastries
+hard: high protein content - breads and pasta
+
+Starch in Flour answer: provides structure, texture, and flavor
+contributes to crumb: fine vs. coarse
+broken down by amylase into dextrins, maltose, and glucose
+
+Course vs. Fine Crumb answer: large, irregular air holes vs. small dense air bubbles
+
+Whole Wheat Flour answer: high in fiber
+low volume: dense and heavy
+require refridg. to slow rancidity bc of germ
+
+Common Wheat Flours answer: white: endosperm only
+bread: high gluten content: winter wheat
+durum: highest protein content: pasta
+all purpose: hard and soft wheat
+pastry: soft wheat: low protein
+cake: lowest protein; fine crumb and delicate
+
+Non Wheat Flours answer: rye: low gluten content; compact breads
+-contain water-soluble carbs called pentosans
+
+Triticale answer: hybrid of wheat and rye grains
+
+Gluten Free Flours answer: amaranth: nutty
+buckwheat: pancake and waffles
+cornmeal: major protein is corn; crumbly 
+rice: popular in asian culture
+
+Bleached Flour answer: artificial agents whiten via oxidation
+-unbleached has yellow tinge
+-increases number of disulfide bonds which increases protein strength and elasticity
+
+Aged Flour answer: naturally bleached by oxygen in air
+-expensive
+
+Phosphated Flour answer: leavened with baking soda rather than baking powder because acid— monocalcium phosphate is added
+
+Self-Rising Flour answer: all-purpose flour with added leavening agents(baking powder) and salt
+
+What role do dextrins have in cooked flour products? answer: sweetens
+
+Protein function in Flour answer: contribute to structure and ability to rise
+-wheat flour preferred for baking bc of high concentration of protein
+
+What happens when water is mixed with flour? answer: glutenin and gliadin combine to form elastic network of gluten
+
+Gluten function in flour answer: gliadin: stickiness
+glutenin: elasticity
+
+What produces CO2 in bread? answer: yeast and leavening agents
+
+What does kneading bread do? answer: entraps air bubbles and stretches the gluten
+
+What does baking bread do? answer: steam and expanding gases cause gluten to expand further and also cause gelatinization and protein coagulation: sets structure
+
+Gluten Formation answer: 1. hydration
+2. kneading
+
+Cereal Grain Allergies answer: 1. bakers asthma: inhalation
+2. from ingestion
+both trigger immune system
+
+Celiac Disease answer: autoimmune disease
+enhances recognition of gliadins by immune cells leading to inflammation
+
+FDA Labeling Gluten Free answer: contain less than 20 ppm gluten
+
+Leaving agents in flour mixtures answer: yeast, bacteria, baking soda, baking powder
+
+Proofing answer: dough left to sit in warm environment as CO2 is generated
+
+Bakers Yeast answer: dry/active yeast
+fresh yeast
+instant yeast
+
+Why does sourdough taste sour? answer: lactic acid fermentation
+-bacteria ferments carbs to CO2
+
+Leaving Agents and Defects answer: too much=product will fall and have low volume
+soapy taste 
+too little=dense heavy product
+
+Sugar function in Flour Mixtures answer: increase volume, provide food for fermentation, delay gelatinization, increase moistness, brown crusts
+
+Salt function in Flour Mixtures answer: controls yeast growth; flavor
+too much=inhibits yeast activity and decreases volume
+strengthens gluten network
+
+Liquid function in Flour Mixtures answer: hydrates flour to gelatinize starch
+acts as solvent for dry ingredients
+activates yeast: provides steam for leavening
+
+Milk in Flour Mixtures answer: contributes to maillard browning; more fat=creamier
+
+Fat in Flour Mixtures answer: interferes with gluten development by lubricating dough; increases volume with sugar
+finer crumb and tender texture
+more fat=shorter gluten strands: shortening 
+creates flakiness
+
+Egg in Flour Mixtures answer: proteins contribute to structure and maillard browning
+emulsify mixtures
+
+Quick Breads answer: baked immediately after ingredients mixed
+-no waiting for yeast action to rise
+-leavened with air, steam or CO2, baking soda or powder
+
+Pour Batters answer: quick bread 
+1. pancakes
+2. crepes: needs starch moisture
+3. waffles: more fat=oily and rich 
+4. popovers: thinnest batter
+
+Additions in Pancake answer: refined flour=fluffier
+egg=tougher more protein
+buttermilk: holds more air from curlded batter
+
+Drop Batters answer: quick bread
+1. muffins: course crumb; less gluten production
+- bottoms of cups should be grease, un greased sides allow higher rising 
+
+2. boston brown bread: rye and graham flours 
+3. corn bread
+4. hushpuppies: stone-ground cornmeal 
+5. dumplings: chewy gel
+6. tea breads
+7. coffee cakes
+
+What happens when you over mix drop batters? answer: peaked-top with tough interior that is riddled with tunnels
+dense and heavy product
+
+How can tunnel formation be reduced? answer: using whole grain flours
+
+What happens when you under mix drop batters? answer: gluten development insufficient
+crumbly muffin 
+low volume
+
+Additives in Quick Breads answer: preservatives: inhibit mold growth from sugar
+sweeteners: sucrose, corn syrup
+emulsifiers: help ingredients mix well: eggs
+
+Why are preservatives added as a calcium or sodium salt? answer: they will dissolve in the food
+
+Rye Flour answer: low gluten content than wheat; compact breads
+high fiber
+
+Dumplings answer: small ball of flour batter: tan/white color 
+-simmered in water, stock, etc.
+-strong dough needed for steaming
+-white starch source that sticks and seals
+
+Doughs answer: unleavened breads
+-easy to prepare
+leavened by steam 
+1. tortillas: flour or corn; soft vs. tough 
+2. chapatis: Indian
+3. matzo
+4. biscuits: rely on fat with brief kneading to increase gluten: ice water used to keep butter intact 
+5. scones: richer than biscuits
+
+Saccharomyces cerevisiae answer: yeast
+multiplies rapidly at optimum temp and moisture content
+
+Straight Dough Method answer: a mixing method for yeast breads in which all ingredients are simply combined and mixed at same time
+
+Sponge Method answer: mixing method for yeast breads in which yeast is combined with water and 1/3 flour to ferment for 40-60min
+
+Batter Method answer: mixing method for yeast breads where ingredients are combined then beaten to develop gluten 
+-hot dog and hamburger buns
+
+Rapid Mix answer: mixing method for yeast breads where use of bread-making machine is utilized 
+-bakes and rises in same pan
+
+When is dough finished being kneaded? answer: whenever the dough springs back when pressed or appears translucent "gluten window" when stretched
+
+Second Proofing answer: doubles its size; greater volume and texture
+-evens out temp, smaller air bubbles, redistributes products
+
+How does humidity play into yeast bread? answer: if humidity is too low, crust will crack
+
+Overfermentation answer: overextension of gluten and cell structure collapse=low volume 
+-sour flavor from acid production
+
+Pan of choice for bread shaping? answer: dark heavy-weight steel pan 
+-promotes golden brown color and crust
+
+Baking Yeast Breads answer: typically 45min; high temp 400 until last 10-15min lowered to 350
+-contributes to oven spring: expansion of dough during initial baking
+
+Changes during Yeast Bread Baking answer: yeast killed
+enzymes inactivated
+alcohol from fermentation vaporized
+proteins coagulate
+starches gelatinize
+caramelization
+starch broken down into dextrins (dextrinization) 
+maillard reaction: eggs, milk, sugar substrate
+
+What causes even distribution of CO2 in Yeast Breads? answer: mixing, kneading, punching down, and shaping the dough
+-gives best crumb
+
+Types of Yeast Breads answer: white breads
+whole-wheat breads
+sourdough breads
+rolls
+pita bread
+
+Specialty Breads differ in terms of answer: 1. preparation technique 
+2. variations in ingredients
+
+Staling answer: crust toughens, crumb becomes less elastic/more firm, loss of moisture & flavor as soon as it leaves the oven
+-reversible upon reheating, appears back when cooled
+due to starch retrogradation
+
+Sucrose answer: table sugar (glucose + fructose)
+-sugar extraction process
+
+What are the primary sources of sucrose? answer: sugar cane and sugar beets
+
+Functions of Sugar answer: sweetness, texture, browning, fermentation, extending shelf life
+
+What is the only sweetener of animal origin? answer: lactose
+-least sweet
+
+Forms of Sucrose answer: raw sugar
+turbinado sugar: not truly raw
+white sugar
+brown sugar
+
+Glucose answer: the form of sugar that circulates in the blood and provides the major source of energy for body tissues. - when its level is low, we feel hunger.
+
+Dextrose answer: another name for glucose; derived from cornstarch breakdown
+-less sweet than sucrose
+
+Fructose answer: naturally found in fruits and honey
+-sweetest granulated sugar
+-most hygroscopic: excessive stickiness and browning
+***most soluble
+
+Lactose answer: glucose + galactose; extracted from whey portion of milk 
+-used to brown baked products
+-levels vary by species
+***least soluble
+
+Why is ricotta cheese sweet? answer: high level of lactose from concentrated whey protein
+
+Maltose answer: glucose + glucose; starch from grains converted 
+-flavors milkshakes and candy
+-important for beer production
+
+Corn Syrup answer: thick, sweet syrup, made from cornstarch and enzymes/acid
+boiled, filtered, evaporated
+small=sweeter
+longer=contribute to viscosity
+
+Dextrose Equivalent (DE) answer: measurement of dextrose concentration. A DE of 50 means the syrup contains 50% dextrose
+- high DE= Increase sweetness and lower viscosity 
+- low DE= decrease sweetness and higher viscosity
+
+Why is HFCS so heavily used? answer: fructose sweeter than sucrose so less is needed; making it cheaper and easy to transport
+
+Honey answer: color, viscosity, and flavors influenced by flower bees use
+
+Can honey be fed to babies? answer: NO, because not enough bacteria in their gut to protect from bad micro-organisms/bacteria in honey
+
+Molasses answer: highly concentrated sucrose syrup produced from boiling down sugar
+-fermented to produce rum
+
+Maple Syrup answer: drastic rise and fall of temps cause the sap to flow
+colors range from light amber(fancy) to dark amber(commercial)
+
+Invert Sugar Syrup answer: mixture of glucose and fructose with hydrolysis
+-produces soft smooth texture 
+products stay moist: hygroscopic 
+causes rapid crust coloration
+
+Sugar Alcohols answer: counterparts of specific carbs; found naturally in fruits and veggies and can be synthesized
+-bacteria cannot digest so contributes fewer calories 
+-function as humectants
+
+Humectants answer: substances that attract water and help retain moisture
+
+Non-Nutritive Sweeteners answer: manufactured sweeteners that provide little or no energy; also called alternative sweeteners
+-sweeter than sucrose
+-leave aftertaste and resistant to heat
+
+Saccharin answer: sweet n low; bitter aftertaste
+
+Aspartame answer: nutrasweet or equal
+should not be consumed by those with PKU
+-loses sweetness when exposed to heat
+
+Steviol Glycosides answer: truvia or purevia; extracted from stevia plant
+bitter or astringent aftertaste
+
+Neotame answer: 13,000x sweeter than sucrose
+-heat stable
+
+Monk Fruit answer: 300x sweeter than sugar; native to Southern China
+
+Advantame answer: 20,000x sweeter than sucrose and heat stable
+
+Functions of Sugars in Food answer: -solubility: mouthfeel and texture
+-crystallization: candy manufacturing, maillard rxn, reducing sugar and protein
+-caramelization: browning, less sweet and more flavorful
+-moisture absorption: moisture and texture
+-fermentation
+-preservation: lower water activity; dehydration
+
+What chemical molecule is the most hygroscopic? answer: fructose
+
+Why is amylase important? answer: germination in malt
+
+Functions of Fat answer: 1. act as medium for heat transfer
+2. shortening power 
+3. emulsions 
+4. melting point 
+5. plasticity 
+6. flavor, texture, appearance, satiety
+
+Fat as Medium for Heat Transfer answer: --high heat = shorter time = optimal
+--low heat = longer time = more fat absorption
+
+Fat as Shortening Power answer: solid sat fat: flakey product
+oils: crumbly product
+cutting in fat: air pockets for flakiness
+creaming fat: air bubbles when baked
+
+Fat as Emulsifier answer: oil in water: fat dispersed in water - milk
+water in oil: water dispersed in fat - butter
+
+What are the three parts of Emulsions? answer: 1. the dispersed or discontinuous phase
+2. the dispersion medium or continuous phase
+3. an emulsifier: compound that helps keep one phase dispersed in another (stabilizes)
+
+What does an emulsifier do? answer: migrates to interface between the phases and lowers surface tension between the dispersed and continuous phase
+-contain both hydrophilic and hydrophobic region
+-monoglycerdies and diglycerides
+
+What are an emulsions capacities to resist separation? answer: 1. temporary: least stable (oil and vinegar dressing)
+2. semi-permanent: have stabilizers to reduce separation (commercial salad dressings) 
+3. permanent: very stable, don't separate (mayo)
+
+Fat Melting Point answer: 1. degree of unsaturation: oils unsaturated and animal fats saturated 
+2. length of fatty acids: more C means more interactions and more energy required to break them: longer chain length = higher melting point 
+3. cis vs. trans configuration 
+4. crystalline structure: how they are packed
+
+Hydrogenation answer: adds hydrogens to the double bonds of unsaturated fatty acids: become more saturated and solid at room temp
+
+How does the carbon chain length affect melting point? answer: the longer the chain, the higher the melting point 
+-more energy required
+
+Unsaturated Fatty Acids with what configuration have a higher melting point? answer: trans configuration because the better the fat molecules can stack against each other, the higher the MP
+
+Crystalline size affects Melting Point by? answer: the larger the crystals, the higher the MP
+-nicer packed = stronger = better 
+- alpha, beta prime (best), beta
+least to most stable 
+lowest MP to highest MP
+
+Fat for Plasticity answer: ability of a solid fat to hold its shape but still be moldable/spreadable
+-INCREASE with temperature and degree of unsaturation
+
+Spreadable Butter answer: plasticity from hydrogenation to solid and then pumped with air to increase volume
+
+Smoke Point of Fat answer: temperature that an oil can be heated before the appearance of acrolein smoke(bad odor)
+
+Flash Point of Fat answer: temp at which wisps of fire streak the surface of heated fat or oil (600F)
+
+Fire Point of Fat answer: temp at which heated substance bursts into flames and burns for 5 sec (700F)
+
+Frying Fats answer: 100% fat; hydrogenated shortenings or vegetable oils
+heat stable: smoke point >420F
+little flavor
+
+Why do foods fry best in oil that has been used at least once? answer: oils pick up proteins and sugars from foods 
+substrates for the Maillard rxn
+eventually foods become too dark and oil must be replaced
+
+Types of Fat answer: 1. butter
+2. milk fat
+3. margarine 
+4. shortening: hydrogenated oil
+5. oil
+
+Oil Extraction Methods answer: 1. cold-pressing: usually unrefined
+2. expeller-pressing: squeezed at high pressure
+3. chemical solvents: chemical removal using non-polar solvent --majority of commercial oils
+
+Unrefined Oils answer: have full flavor of plant
+slightly higher nutritional value
+have low smoke point, cannot be exposed to high heat
+more prone to rancidity
+
+Refined Oils answer: undergo removal of naturally present gums, resins, pigments, etc.
+low-aroma and bland flavor
+higher smoke point
+
+Olive Oils answer: 1. extra-virgin: highest quality, least acidic, strong flavor
+2. virgin: more acidic and less flavor
+3. olive oil: blend of virgin and refined olive oil
+4. light/extra-light: less color and flavor
+
+Why do some oils crystallize when stored in fridge? answer: some fatty acids have higher MP
+-creates cloudiness--winterization used
+
+Winterization answer: removal of high-MP triglycerides to prevent cloudiness at cold temps: commercial salad dressings
+
+Fat Replacers answer: substitutes: fewer kcals, lipid-based
+mimetics: mimic sensory and/or physical, carb or protein based
+
+Fat Rancidity answer: breakdown of fats into smaller units yield off flavors and odors
+1. hydrolytic: water breaks down large fat molecules into smaller ones
+2. oxidative: double bond of unsaturated fatty acid reacts with oxygen to result in two or more shorter molecules
+
+Hydrolytic Rancidity answer: occurs if food is not rid of moisture or from the water found on frozen food to be fried 
+catalyzed by lipases and heat: butter stored in fridge
+
+Oxidative Rancidity answer: occurs when food is exposed to oxygen in the air
+higher degree of unsaturation increases susceptibility
+1. initiation
+2. propagation
+3. termination
+
+Fat Storage answer: rancidity increases with storage time 
+will last longer if refrigerated
+
+What are cakes classified according to? answer: whether they contain fat
+
+Cake: Flour, Milk, and Egg Whites answer: contain proteins that contribute to structure and strength
+
+Cake: Fat, Sugar, and Egg Yolks answer: tenderize the structure
+-provide moisture and shorten gluten strands to increase tenderness
+
+Shortened Cakes answer: made with fat and are foamy 
+-leavened with baking powder or soda 
+-shortens gluten strands
+-bundt, butter, carrot, cheesecake, devils food, pound, mooncake
+
+Unshortened Cakes answer: very soft and tender cakes 
+-beaten with egg whites
+-rely on steam and air from foam to leaven
+-gluten expands, moisture, lighter/less dense 
+-angel food, boston cream pie, tiramisu, meringue
+
+Chiffon Cake answer: made with fat and egg white foam
+extra baking powder required to lift the cake during baking
+
+Using Milk instead of water in baking? answer: whiter, sweeter product 
+-softer: richer in fat
+
+Prep for Shortened Cakes answer: dull pan to absorb heat readily 
+ungreased sides of pan to let rise 
+solid shortening over butter 
+do not let batter stand too long: gases escape
+
+How does heat flow during baking? answer: from edge to center
+
+Prep for Unshortened Cakes answer: proper mixing essential 
+need to set for a long time 
+should spring back when done cooking
+
+Flat Frosting answer: uncooked, has tendency to dry out and crack 
+cannot store well bc fresh
+
+Cooked Frosting answer: made with granulated or powdered sugar heated in water with additional ingredients
+-buttercream
+
+Ganache answer: -prepared from heated mixture of chopped chocolate and heavy cream
+-poured over baked items and eventually hardens
+
+Cookies answer: maintain less liquid and more fat and sugar than cakes 
+-little to no gelatinization or gluten formation
+-more grainy
+
+Bar Cookies answer: more fluid batter
+baked in pan
+-brownies, lemon bars
+
+Dropped Cookies answer: dropped from spoon onto cookie sheet
+more viscous, less moisture content
+contain enough flour to not spread when dropped 
+-chocolate chips, meringues, fortune cookies
+
+Pressed Cookies answer: piped from pastry bag or pressed through dies
+viscous
+-lady fingers, macaroons
+
+Molded Cookies answer: strong/heavy enough to be molded into shapes
+-biscotti, pb cookies
+
+Rolled Cookies answer: heavier than molded
+rolled and cut into shapes
+-sugar cookies, gingerbread, shortbread
+
+Icebox/Refrigerated Cookies answer: same dough as rolled cookies just kept in fridge
+
+Prep of Cookies answer: low or non existent sides of baking sheets allow for better air circulation and even baking
+
+Types of Pastries answer: 1. non-laminated
+2. laminated
+
+Non-Laminated Pastry answer: fat is cut into flour mixture
+-hot water crust: empanadas
+-short crust: tart
+-dessert pie
+-galette
+-main dish pie
+
+Laminated Pastry answer: the arrangement of alternating layers of fat and flour in rolled pastry dough
+-more layers = more flakiness 
+-fat melts and leaves empty space for steam to lift layers 
+-puff pastry, croissants, danish
+
+What are the four basic ingredients of a pastry? answer: flour, fat, liquid, and salt
+-eggs and sugar are optional 
+-high fat content
+
+What are the leavening agents of a pastry? answer: usually air and steam
+-except in: danish, croissants, brioche--use yeast
+
+What do pastry and pie doughs contain more of? answer: they contain more fat than any other baked product
+-can contain equal parts fat and flour
+
+Prep of Pastry answer: pastry flour used due to low protein content
+minimal water use, coating with fat, minimal handling, or adding acid to REDUCE gluten formation
+
+Fat influence in Pastry Preparation: Flakiness answer: flakiness depends on fat particle size and firmness
+-long: puff pastry 
+-short: croissants
+-mealy: empanadas
+COLDNESS MAXIMIZES FLAKINESS
+
+Fat influence in Pastry Preparation: Tenderness answer: fat increases tenderness by INHIBITING gluten development 
+fat needs to be thoroughly combined
+
+Liquid function in Pastry Preparation answer: important for hydration and leavening 
+-little used as possible: inhibits starch gelatinization
+-too much = toughness 
+liquid evaporation creates crispy crust
+
+Plain Pastry Mixing Method answer: nonlaminated: cold fat cut into dry ingredients until pea-sized fat particles
+
+Puff Pastry Mixing Method answer: butter block and flour mixture mixed separately and then chilled for lamination
+
+Rolling Plain Pastry answer: bottom crusts: one at a time
+top crusts: ventilation needed to let steam release from pie
+
+Baking Pies answer: pyrex glass or dull pans best 
+high heat
+
+Composition of Milk answer: 87% water, 13% fat and MSNF
+
+MSNF answer: proteins and lactose
+
+Milk Total Solid answer: fat + SNF
+
+Ice Cream inflated with air? answer: air increases SA for a lighter texture, less creamy, melts faster
+-ice cream sold in volume or mass
+
+Colloid Food Foam answer: air bubbles surrounded by fat globules and coated with an emulsified protein layer
+-ice cream shrinks overtime due to collapsing films around air bubbles
+
+How do ice crystals form? answer: from lactose
+more sugar = bigger crystals = grainy texture
+
+Ice Cream Labeling answer: needs to contain at least 10% milk fat by weight
+
+Milk Fat Percentage in Ice Cream answer: more fat = denser, smoother, richer product
+premium ice cream: more fat content
+
+If we are removing milk fat from ice cream, what can we add to products to maintain the texture? answer: stabilizers, egg yolk (lecithin)
+
+Why does the amount of MSNF in ice cream vary? answer: less MSNF needed for ice creams made from bulky flavorings like chocolate or fruit
+
+Ice Cream Flavor answer: temperatures effect flavor: must be boldly flavored BEFORE freezing (-20)
+
+Ice Cream Texture answer: dependent on formation of ice crystals
+more nuclei = smaller crystals = smoother
+less nuclei = larger crystals = coarser
+
+Ice Cream Overrun answer: the increase in volume from freezing/whipping the liquid mixture 
+-economically advantageous
+
+Premium Ice Cream answer: low overrun and high fat
+
+Super-Premium Ice Cream answer: very low overrun and higher fat
+
+Ice Cream Pre Mix answer: tastes like whey protein
+
+Churning and Freezing Ice Cream answer: churned during freezing; promotes formation of small and numerous ice crystal nuclei 
+creamier texture
+incorporates air
+
+Mixing Methods for Non-Commercial Ice Cream Prep answer: 1. ice cream machine
+2. old-fashioned hand cranking 
+-churning speed increased near end to facilitate small crystal formation
+
+Low Fat Ice Cream answer: reduced: 25% less than original
+light: 50% less than original
+low-fat: <3g 
+non-fat: <0.5g
+
+Imitation Ice Cream answer: milk fat replaced
+-mellorine: veggie fat
+-parevine: kosher
+-tofutti: soy based
+
+Gelato answer: contains less cream and more milk 
+smoother and denser bc less air than cream
+churned slower
+served at higher temp
+
+Frozen Yogurt answer: made from cultured dairy product with added sweeteners and flavors
+-lower fat content
+-higher moisture content
+
+Sherbert answer: base is iced sweetened fruit juice/puree
+contains <2% milk fat
+
+Sorbet answer: made from fruit and sugar syrup
+-contains NO fat, eggs, gelatin, or dairy 
+-harder consistency
+
+Water Ices answer: made from sweetened water and fruit juice
+-lack MF and MSNF
+
+Storage of Frozen Desserts answer: temperature fluctuations = large ice crystal growth
+fresh ice cream has numerous small crystals
+temp increases = crystals melt and recrystallize into larger ones 
+-stabilizers help
+
+Why are commercial ice cream cones coated with layer of chocolate? answer: damages to ice cream protected from heat shock and temperature abuse
+
+What causes a majority of food borne illnesses? answer: bacteria
+-infection 
+-intoxication/poisoning 
+-toxin mediated infection
+
+Food Infection answer: illness resulting from eating food contaminated with bacteria that grew, replicate, and colonize the host's intestine
+- e.coli + salmonella
+
+Food Poisoning/Infection answer: illness resulting from eating food contaminated with bacteria that GREW on food and released toxins 
+-food is ALREADY contaminated with toxin
+
+Food Toxin-Mediated Infection answer: illness resulting from eating food contaminated with bacteria that enters the intestine first and THEN starts to produce toxin once in the intestine
+
+Molds answer: produce mycotoxins that cause food intoxication

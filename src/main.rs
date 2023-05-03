@@ -65,7 +65,7 @@ fn change_delim(
     delim.clear();
     let mut input = String::new();
     io::stdin().read_line(&mut input).unwrap();
-    delim.push_str(input.trim());
+    delim.push_str(input.trim_end_matches("\n"));
 
     *question_answer = fill_hashmap(file, delim);
 }

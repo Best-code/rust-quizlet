@@ -1,7 +1,7 @@
 use std::{
     collections::HashMap,
     fs::File,
-    io::{self, BufRead, BufReader, Read},
+    io::{self, BufRead, BufReader},
 };
 
 use rand::Rng;
@@ -19,8 +19,8 @@ fn main() {
 
     let mut score = 0;
     for _ in 0..question_count {
-        let tf_or_mc = rand::thread_rng().gen_range(1..=2);
-        if tf_or_mc % 2 == 1 {
+        let tf_or_mc = rand::thread_rng().gen_bool(1.0/2.0);
+        if tf_or_mc {
             score = mult_choice(&mut score, &question_answer);
         } else {
             score = true_false(&mut score, &question_answer);

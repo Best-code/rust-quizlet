@@ -32,5 +32,11 @@ Contributions are welcome! If you have an idea for a new feature or want to impr
 
 <h2>Acknowledgments<h2>
 
-Rust Programming Language
-LinkedIn Learning Rust Training
+<ul>
+<li>
+  <a href="https://www.rust-lang.org">Rust Programming Language</a>
+  </li>
+  <li>
+  <a href="https://www.linkedin.com/learning/rust-essential-training">LinkedIn Learning Rust Training</a>
+</li>
+</ul>

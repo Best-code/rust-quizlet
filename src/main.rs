@@ -7,13 +7,13 @@ use std::{
     process::{exit, Output},
 };
 
-use rand::Rng;
+use rand::{Rng, seq::SliceRandom};
 
 fn main() {
-    let mut delim = String::from(" answer: ");
-    let mut file = String::from("./fos_exam.txt");
+    let mut delim: String = String::from(" answer: ");
+    let mut file: String = String::from("./fos_exam.txt");
 
-    let mut question_answer = fill_hashmap(&file, &delim);
+    let mut question_answer: HashMap<String, String> = fill_hashmap(&file, &delim);
 
     menu(&mut question_answer, &mut delim, &mut file);
 }
@@ -269,7 +269,8 @@ fn mult_choice(score: &mut i32, qna_s: &HashMap<String, String>) -> i32 {
     options[0] = answer;
 
     // Shuffling all answer choices around
-    let options = *shuffle_array(&mut options);
+    // let options = *shuffle_array(&mut options);
+    shuffle_array(&mut options);
 
     // Finding which answer is correct
     let mut correct_index = 5;
@@ -318,11 +319,10 @@ fn mult_choice(score: &mut i32, qna_s: &HashMap<String, String>) -> i32 {
     *score
 }
 
-fn shuffle_array<'a>(options: &'a mut [&'a str; 4]) -> &'a [&'a str; 4] {
-    use rand::prelude::SliceRandom;
+fn shuffle_array(options: &mut [&str; 4])
+{
     let mut rng = rand::thread_rng();
-    options.shuffle(&mut rng);
-    options
+    options.shuffle(&mut rng)
 }
 
 fn add_qa(delim: &str, file_str: &str) -> HashMap<String, String> {
@@ -351,3 +351,4 @@ fn add_qa(delim: &str, file_str: &str) -> HashMap<String, String> {
 
     question_answer
 }
+
